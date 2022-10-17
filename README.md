@@ -71,7 +71,7 @@ There are four optional parameters:
 
 --attack : the attack to run. You can choose to run CGD('CGD'), or Auto-PGD with one of the four loss functions: CE loss, CW loss, DLR loss, and MD loss ('ce', 'cw', 'dlr', and 'md'). The default value is 'CGD'.
 
---eps : the Linf distance limit epsilon (*255). Either 4 or 8 in accordance with the pre-trained model. The default value is 8.
+--eps : the Linf distance limit epsilon (*255). Either 4 or 8 in accordance with the pre-trained models. The default value is 8.
 
 --Ninitial: number of choices of random initializations. Any postive integers are valid. The default value is 5, as we used in our paper.
 
