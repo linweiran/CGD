@@ -1,4 +1,4 @@
-# CGD1
+# CGD
 
 Hi, this is the implementation of the ICML2022 paper: 
 "Constrained Gradient Descent: A Powerful and Principled Evasion Attack Against Neural Networks"
